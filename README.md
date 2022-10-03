@@ -30,6 +30,62 @@
 
 
 
+## Semesterplan:
+
+
+### I. Linguistische und formale Grundlagen (*Linguistic and Formal Foundations*)
+
+| Vorlesung |  Übung | Thema 
+| ------------- | ------------- | ------------- | 
+| Di, 18.10.22 | Mi 19.10.22 | 1. Einführung (**Introduction**) | 
+| Di, 25.10.22 | Mi, 26.10.22  | 2. Syntaxanalyse (**Syntactic Analysis**) |  
+| - | Mi, 02.11.22  | *Feiertag (keine Vorlesung; Übung: Troubleshooting Jupyter+git)*  |    
+| Di, 08.11.22 | Mi, 09.11.22  | 3. Syntaktische Kategorien (**Syntactic Categories**) |    
+| Di, 15.11.22 | Mi, 16.11.22 | 4. Konstituentengrammatik (**Constituency Grammar**) |   
+| Di, 22.11.22 | Mi, 23.11.22 | 5. Dependenzgrammatik (**Dependency Grammar**) |    
+
+
+### II. Morphosyntax und Wortstellung (*Morphosyntax and Word Order*)
+
+| Vorlesung |  Übung | Thema 
+| ------------- | ------------- | ------------- |   
+| Di, 29.11.22 | Mi, 30.11.22 | 6. Morphologische Merkmale (**Feature Structures**) |    
+| Di, 06.12.22 | Mi, 07.12.22 | 7. Unifikationsgrammatiken (**Feature-based Grammars**) |   
+| Di, 13.12.22 | Mi, 14.12.22 | 8. Wortstellung & komplexe Sätze (**Word Order & Complex Sentences**) | 
+
+
+### III. Parsingalgorithmen (*Parsing Algorithms*)
+
+| Vorlesung |  Übung | Thema 
+| ------------- | ------------- | ------------- |   
+| Di, 20.12.22 | Mi, 21.12.22 | 9. **CFG Parsing** |  
+| Di, 10.01.23 | Mi, 11.01.23 | 10. **Unification Parsing** | 
+
+
+### IV. Statistisches Parsing (*Statistical Parsing*)
+
+| Vorlesung |  Übung | Thema 
+| ------------- | ------------- | ------------- |  
+| Di, 17.01.23 | Mi, 18.01.23 | 11. **PCFGs & Dependency Parsing** |  
+| Di, 24.01.23 | Mi, 25.01.23 | 12. **Grammar Induction** & *Probeklausur (24.01.23 ab 11:15)* | 
+
+
+### V. Partielles Parsing (*Partial Parsing*)
+
+| Vorlesung |  Übung | Thema 
+| ------------- | ------------- | ------------- | 
+| Di, 31.01.23 | Mi, 01.02.23 | 13. **Chunking & Parsing as Tagging** | 
+
+
+### Abschlussveranstaltungen
+
+
+| Datum | Veranstaltung | Thema 
+| ------------- | ------------- | ------------- | 
+| Di, 07.02.23 | Vorlesung |  *Klausurvorbereitung (Besprechung Probeklausur)*  | 
+| Mi, 08.02.23 | Übung |  *Klausurvorbereitung (Wiederholung + Fragestunde)*  | 
+
+
 
 
 ## Begleitende Literatur:
