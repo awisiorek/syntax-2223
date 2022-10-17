@@ -87,6 +87,13 @@
 
 
 
+## Klausur:
+
+| Datum  | Uhrzeit | 
+| ------------- | ------------- | 
+|  Di, 14.02.2022 |  10 Uhr   | 
+
+
 
 ## Begleitende Literatur:
 
