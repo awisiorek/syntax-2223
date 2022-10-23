@@ -14,7 +14,7 @@
 
 - Vorlesung: Di 10:15-11:45, L155 (Axel Wisiorek)
 - Übung: Mi 14:15-15:45, L155 (Axel Wisiorek)
-- Tutorium: Fr 10:15-11:45, per Zoom (Sarah Uffelmann)
+- Tutorium: Fr 16:15-17:45, per Zoom (Sarah Uffelmann)
 
 ***Vorlesung und Übung finden in Präsenz mit Zoom-Übertragung statt (hybrid). Das Tutorium wird per Zoom stattfinden. Der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
 
