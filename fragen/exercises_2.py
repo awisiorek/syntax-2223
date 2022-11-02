@@ -31,7 +31,7 @@ blatt2_3a = [
 
 blatt2_3b = [
     [SingleChoice("In welcher Form wird die syntaktische Struktur eines Satzes beim Aufruf von NLTK print(tree) erstellt?","Klammernotation","Baumdiagramm", sonst=True, inst=single)],
-    [SingleChoice("In welcher Form wird die syntaktische Struktur eines Satzes beim Aufruf von NLTK tree.draw() erstellt?","Baumdiagramm", "Klammernotation", sonst=True, inst=single)]
+    [SingleChoice("In welcher Form wird die syntaktische Struktur eines Satzes beim Aufruf von NLTK tree.pretty_print() erstellt?","Baumdiagramm", "Klammernotation", sonst=True, inst=single)]
     ]
 
 
